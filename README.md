@@ -26,7 +26,7 @@ To run this project, you need Python and Anaconda installed on your machine. You
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/bbc-news-data-analysis.git
+    https://github.com/Sangeerththanan/bbc-news-data-analysis.git
     cd bbc-news-data-analysis
     ```
 
