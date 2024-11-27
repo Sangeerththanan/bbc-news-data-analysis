@@ -85,5 +85,5 @@ Here's a breakdown of the project files:
 
 The script will output the cleaned data in `bbc_news_data_cleaned.csv`, and the analysis will generate a bar chart similar to the following:
 
-![Category Distribution Chart](category_distribution.png)
+![Category Distribution Chart](https://github.com/user-attachments/assets/a1a35afb-246b-4e12-b8de-2da6eb629d3b)
 
